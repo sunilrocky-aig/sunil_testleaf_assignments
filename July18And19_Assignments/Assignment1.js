@@ -9,3 +9,4 @@ console.log(companyName," is a type of ",typeof companyName);
 console.log(mobileNumber," is a type of ",typeof mobileNumber);
 console.log(isAutomation," is a type of ",typeof isAutomation);
 console.log(hasPlaywright," is a type of ",typeof hasPlaywright);
+console.log("-----------------End of Assignment 1-----------------");
